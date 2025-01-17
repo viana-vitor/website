@@ -52,7 +52,7 @@ const TypingAnimation = () => {
     <div className='h-10'>
       <span className='inline-flex text-2xl '>
         <span>{displayText}</span>
-        <span className='animate-pulse text-gray-700 -ml-1'>|</span>
+        <span className='animate-pulse -ml-1'>|</span>
       </span>
     </div>
   )
