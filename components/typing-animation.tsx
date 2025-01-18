@@ -1,7 +1,7 @@
 "use client"
 import { useState, useEffect, useCallback } from "react"
 
-const WORDS = ["Founder", "Engineer"]
+const WORDS = ["Founder", "Engineer", "Builder"]
 
 const TypingAnimation = () => {
   const [currentWordIndex, setCurrentWordIndex] = useState(0)
