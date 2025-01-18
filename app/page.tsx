@@ -33,7 +33,7 @@ export default function Home() {
             <h2 className='text-xl font-semibold mb-8'>Work</h2>
             <div className='sm:px-6 pb-3'>
               <Link
-                href={"/"}
+                href={"/iscicle"}
                 className='grid grid-cols-1 sm:grid-cols-[100px_1fr_16px] items-start gap-2 sm:gap-12 sm:p-3 group'
               >
                 <div className='text-sm font-medium'>
